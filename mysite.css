@@ -69,13 +69,13 @@ p{
 
 .cloud1{
   position: absolute;
-  left: 800px;
+  left: 70%; /*initially 800px*/
   top: 60px;
 }
 
 .cloud2{
   position: absolute;
-  left: 400px;
+  left: 28%; /*initially 400px*/
   top: 225px;
 }
 
